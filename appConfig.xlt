@@ -1,11 +1,11 @@
 {
-	"appName": "简约大气引导页",
+	"appName": "简约引导页",
 	"appPackageName": "top.djidcat.myapp",
 	"appVersionName": "1.0",
 	"appVersionCode": 100000,
 	"data": {		
 		"启用顶栏": true,
-		"顶栏标题": "简约大气引导页",
+		"顶栏标题": "简约引导页",
 		"顶栏颜色": "#FF2C2E43",
 		"横屏": false,
 		"显示状态栏": true,
