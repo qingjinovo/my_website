@@ -1,0 +1,8 @@
+body {background-image:url('/images/background.png');
+  background-repeat:repeat-x;
+  background-attachment:fixed;
+}
+a:link {text-decoration:none;}    /* 未访问链接 */
+a:visited {text-decoration:none;text-decoration:none;} /* 已访问链接 */
+a:hover {text-decoration:underline;}   /* 鼠标移动到链接上 */
+a:active {text-decoration:underline;}  /* 鼠标点击时 */
